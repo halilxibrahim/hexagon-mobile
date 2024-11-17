@@ -81,7 +81,7 @@ If you encounter any issues, please create an issue [here](https://github.com/ha
 
 ## 📬 Contact
 
-- **Author**: Your Name  
+- **Author**: Halil ibrahim Kamacı  
 - **GitHub**: [halilxibrahim](https://github.com/halilxibrahim)  
 - **LinkedIn**: [halilxibrahim](https://linkedin.com/in/halilxibrahim)  
 
