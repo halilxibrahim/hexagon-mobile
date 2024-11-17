@@ -10,10 +10,6 @@ Interactive and visually engaging hexagonal grid implementation built with **Exp
 - **Responsive Design**: Optimized for various screen sizes.
 - **Coding-Themed Icons**: Fun and relatable icons for developers.
 
-## 🎥 Demo
-
-![Demo GIF](https://placeholder-for-demo-gif.com)
-
 ## 🛠️ Built With
 
 - **React Native**: Framework for building cross-platform mobile apps.
