@@ -3,6 +3,11 @@
 
 Interactive and visually engaging hexagonal grid implementation built with **Expo**, **React Native**. This project features ripple animations, dynamic theme switching (light/dark modes), and coding-themed icons in a honeycomb structure.
 
+
+https://github.com/user-attachments/assets/0f3fffce-2296-437e-b5d5-5ad877977b9d
+
+
+
 ## 🌟 Features
 
 - **Interactive Animations**: Ripple effect on hexagons when pressed.
